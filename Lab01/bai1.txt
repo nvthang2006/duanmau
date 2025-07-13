@@ -1,0 +1,12 @@
+Liệt kê các chức năng theo mô tả
+Người dùng:
+• Đăng ký/Đăng nhập tài khoản
+• Tìm kiếm sản phẩm
+• Xem chi tiết sản phẩm
+• Bình luận và đánh giá sản phẩm
+Quản trị viên:
+• Quản lý sản phẩm
+• Quản lý danh mục
+• Quản lý khuyến mãi
+• Quản lý tài khoản
+• Kiểm duyệt bình luận của người dùng
